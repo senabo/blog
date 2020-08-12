@@ -1,1 +1,1 @@
-# blog_django_girls
+# blog_django_girls.
